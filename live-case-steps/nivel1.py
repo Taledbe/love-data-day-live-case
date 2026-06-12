@@ -15,10 +15,10 @@ from config import chamar_llm
 #  TURMA DECIDE AQUI — preencha ao vivo com a turma!
 # ──────────────────────────────────────────────────────────
 
-NOME_ASSISTENTE = "???"   # Qual o nome do nosso assistente?
-PERSONALIDADE   = "???"   # Como ele deve se comportar?
-PUBLICO         = "???"   # Para quem ele fala: consumidor, entregador ou parceiro?
-TOPICOS         = "???"   # Quais assuntos ele pode responder?
+NOME_ASSISTENTE = "Ze"   # Qual o nome do nosso assistente?
+PERSONALIDADE   = "Paciente e Didático"   # Como ele deve se comportar?
+PUBLICO         = "Entregador"   # Para quem ele fala: consumidor, entregador ou parceiro?
+TOPICOS         = "Problemas de rotas, melhores rotas, regras de pagamento, conduta, transito, segurança"   # Quais assuntos ele pode responder?
 
 # ── Sugestões (descomente se a turma travar) ──────────────
 # NOME_ASSISTENTE = "Tobias"
